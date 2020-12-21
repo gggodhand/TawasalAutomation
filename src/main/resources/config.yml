@@ -1,0 +1,18 @@
+automationName: uiautomator2
+autoDismissAlerts: true
+autoGrantPermissions: true
+deviceOrientation: portrait
+platformName: Android
+autoAcceptAlerts: true
+noReset: true
+fullReset: false
+newCommandTimeout: 600000
+wdaLaunchTimeout: 240000
+wdaConnectionTimeout: 240000
+deviceName: Android GoogleAPI Emulator
+noSign: true
+disableWindowAnimation: true
+appPackage: com.tawasul.messenger
+appWaitActivity: '*.MainActivity'
+app: /Users/nikitachegodaev/Downloads/debug_2.0.26.7008.apk
+browserName: ""
